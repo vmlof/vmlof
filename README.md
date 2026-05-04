@@ -6,4 +6,4 @@ I'm mainly focused on backend development, but I also enjoy exploring frontend t
 
 # Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,python,js,ts,react,next,vite,html,css,tailwind,styledcomponents,postgres,mysql,git,github,docker,npm,pnpm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,python,js,ts,react,html,css,tailwind,postgres,mysql,git,github,docker)](https://skillicons.dev)
